@@ -2237,7 +2237,7 @@ animation: rotate 5s linear infinite;
 } 
 .parallax {
   /* The image used */
-  background-image: url("../img/hero-bg.png");
+  background-image: url("../img/hero-bg.PNG");
   /* Set a specific height */
   min-height: 100vh; 
 
